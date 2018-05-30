@@ -34,7 +34,8 @@ then
       do
         IMAGE_ID=$(echo "$IMAGE" | sed 's/.*|//')
         IMAGE_NAME=$(echo "$IMAGE" | sed 's/|.*//')
-        echo "  <title>Docker $IMAGE_NAME</title>"
+        echo "<item arg=\"docker image '$MACHINE'\" uid=\"$MACHINE-ip\">"
+        echo "  <title>Docker image $IMAGE_NAME</title>"
         echo "</item>"
       done <<< "$IMAGES"
     fi
