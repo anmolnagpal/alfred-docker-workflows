@@ -9,9 +9,9 @@
 
 Add support for
 
-- [ * ] Docker 
-- [ ] Ansible
-- [ ] Terraform 
+- [ ] Docker 
+- [ ] Jenkins
+- [ ] SSH
 
 ## 👬 Contribution
 
