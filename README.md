@@ -9,7 +9,7 @@
 
 Add support for
 
-- [*] Docker 
+- [ * ] Docker 
 - [ ] Ansible
 - [ ] Terraform 
 
