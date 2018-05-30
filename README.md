@@ -12,7 +12,7 @@ list your running containers & images, Using this plugin you can start the start
 
 `docker`
 
-<img width="578" alt="docker Machine" src="https://user-images.githubusercontent.com/4303310/40719470-c799c50c-6424-11e8-93b5-ed04699484c1.png">
+<img width="578" alt="docker Machine" src="https://user-images.githubusercontent.com/4303310/40722506-95a0f9ae-642d-11e8-904d-add378a87700.png">
 List all Docker machines
 
 `docker [query]`
@@ -23,7 +23,7 @@ Start filtering the list of Docker machines by `[query]`
 
 List all operations you can do with `[full-machine-name]`.
 
-<img width="579" alt="list" src="https://user-images.githubusercontent.com/4303310/40719466-c74fae22-6424-11e8-809f-cded2e48b61d.png">
+<img width="579" alt="list" src="https://user-images.githubusercontent.com/4303310/40722508-95d8f61a-642d-11e8-88e7-ecb173d1af81.png">
 
 
 
