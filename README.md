@@ -2,7 +2,15 @@
     Alfred Workflows
 </h1>
 <p align="center" style="font-size: 1.2rem;">  Alfred Docker Workflows for MACOS  </p>
-
+<p align="center">
+    <a href="LICENSE.md">
+      <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License">
+    </a>
+    <a href="https://www.paypal.me/anmolnagpal">
+      <img src="https://img.shields.io/badge/paypal-donate-179BD7.svg?style=flat-squares" alt="Donate">
+    </a>
+  </p>
+</p>
 <hr />
 
 This workflow will list your Docker machines. Hitting enter on them will then
